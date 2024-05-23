@@ -1,4 +1,4 @@
-
+[![MasterHead](https://github.com/dixitankita/dixitankita/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(1).png)](linkedin.com/in/ankitadixit40)
 <h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">Passionate Developer Enthusiast Exploring the Depths of MERN Stack Technologies</h3>
 
